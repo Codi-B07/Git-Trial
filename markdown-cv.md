@@ -23,3 +23,9 @@
 1. Lebanese University Science Fair Competition
 
 1. Annual Robotics Competition 5
+
+## Contact
+
+- Phone: +961 78890304
+- Email: omar.chouman0@gmail.com
+- Portfolio: ![My Portfolio](https://omarchouman.github.io/)
