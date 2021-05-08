@@ -1,16 +1,18 @@
 # My CV
 
+![Omar's Image](https://github.com/omarchouman/Git-Trial/blob/omar-chouman/Omar.jpg)
+
 ## Info
 
-# \*Name: Omar Chouman
+- Name: Omar Chouman
 
-# \*Age: 18
+- Age: 18
 
-# \*Date Of Birth: 29/10/2002
+- Date Of Birth: 29/10/2002
 
 ## About Me
 
-#### Self-Taught , dynamic , highly motivated individual
+#### Self-Taught , dynamic , highly motivated individual with a passion for learning and solving problems. Work in teams and individually driving quality and consistency through out all phases of software development projects. Partner with developers , analysts , QA and support engineers throughout the product lifecycle to produce high quality , user - friendly , scalable and bug free software.
 
 ## Education
 
@@ -18,6 +20,6 @@
 
 #### Participated in 2 Scientific Competitions:
 
-# 1.Lebanese University Science Fair Competition
+1. Lebanese University Science Fair Competition
 
-# 1.Annual Robotics Competition 5
+1. Annual Robotics Competition 5
