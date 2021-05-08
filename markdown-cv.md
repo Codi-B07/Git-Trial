@@ -28,4 +28,4 @@
 
 - Phone: +961 78890304
 - Email: omar.chouman0@gmail.com
-- Portfolio: ![My Portfolio](https://omarchouman.github.io/)
+- Portfolio: [My Portfolio](https://omarchouman.github.io/)
